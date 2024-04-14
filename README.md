@@ -1,6 +1,6 @@
 <h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
-<h3>Name:ONTEDDU SIRISHA</h3>
-<h3>Register Number: 212222230103</h3>
+<h3>Name: LOKNAATH.P</h3>
+<h3>Register Number: 212223240080</h3>
 <H3>Aim:</H3>
 <p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
 <h2> Theory: </h2>
